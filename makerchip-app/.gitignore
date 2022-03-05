@@ -1,0 +1,9 @@
+
+design.tlv
+.idea/
+venv/
+__pycache__
+
+makerchip_app*
+build/
+dist/

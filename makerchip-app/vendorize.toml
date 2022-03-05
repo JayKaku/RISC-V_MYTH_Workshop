@@ -1,0 +1,4 @@
+target = "makerchip/_vendor"
+packages = [
+    "native_web_app",
+]
