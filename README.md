@@ -35,6 +35,8 @@ More details on RISC-V ISA can be obtained [here](https://github.com/riscv/riscv
 
 Another greate resource by [John Winans](https://github.com/johnwinans) can be found [here](https://github.com/johnwinans/rvalp/releases?page=1)
 
+[Blog](https://danielmangum.com/categories/risc-v-bytes/) by [Daniel Mangum](https://github.com/hasheddan/)
+
 # Overview of GNU compiler toolchain
 
 The GNU Toolchain is a set of programming tools in Linux systems that programmers can use to make and compile their code to produce a program or library. So, how the machine code which is understandable by processer is explained below.
