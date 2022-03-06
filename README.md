@@ -58,7 +58,7 @@ Under the risc-v toolchain,
 
   `riscv64-unknown-elf-gcc <compiler option -O1 ; Ofast> <ABI specifier -lp64; -lp32; -ilp32> <architecture specifier -RV64 ; RV32> -o <object filename> <C filename>`
 
-  More details on compiler options can be obtained [here](https://www.sifive.com/blog/all-aboard-part-1-compiler-args)
+  More details on compiler options can be obtained [here](https://www.sifive.com/blog/all-aboard-part-1-compiler-args) and [here](https://five-embeddev.com/toolchain/2019/06/26/gcc-targets/)
 
 - To view assembly code use the below command,
 
