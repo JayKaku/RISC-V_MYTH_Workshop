@@ -182,8 +182,8 @@
          
          // Input Signals to the ALU
          
-         // taking care and checks for Read After Write Hazard (RAW) caused due to pipelining.
-         // Method: bypassing the register file completely if the previous instr has to write to it
+         // taking care and checks for Read After Write Hazard (RAW) caused due to pipelining
+         // bypassing the register file completely if the previous instr has to write to it
          // and connecting the value from the ALU of the previous cycle to src1 or src2
          $src1_value[31:0] = (>>1$rf_wr_en && (>>1$rd == $rf_rd_index1)) ? >>1$result : $rf_rd_data1[31:0];
          
